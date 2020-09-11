@@ -1,2 +1,2 @@
 # DATA-STRUCTURES
-this repo is a refresher to data structures implemented in C
+this repo serves as a refresher for data structures implemented in C
